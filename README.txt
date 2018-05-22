@@ -4,7 +4,7 @@ Projekat je radjen u okviru kursa Programske paradigme.
 
 Link git repozitorijuma: https://github.com/milicagajic/PP_projekat_2018
 
-Potrebno da se projekat izbilduje: Python 3.5, biblioteka Tensorflow, baza podataka prilozena uz program. Program se pokrece kao i bilo koji drugi Python skript, tako sto se u kozolu unese python proba.py.
+Potrebno da se projekat izbilduje: Python 3.5, biblioteka Tensorflow, baza podataka prilozena uz program. Program se pokrece kao i bilo koji drugi Python skript, tako sto se u kozolu unese python sah.py.
 
 Na sahovskoj tabli se nalaze dva kralja i top. U bazi podataka su zapisane njihove pozicije, da li je moguce da igrac sa kraljem i topom na sahovskoj tabli matira igraca sa kraljem i u koliko poteza. Program na osnovu baze prvo uci, a zatim pogadja da li je moguc mat i u koliko poteza i ispiuje tacnost( tj. procenat slucajeva za koje daje tacan odgovor).
 
